@@ -12,7 +12,7 @@ This tool is made for crypto/stock leverage traders. No setup needed. Simply run
 
 # Requirements
 
-- Python3: To install, run the command below on your terminal (or download Python Installation from [https://www.python.org/downloads/](https://www.python.org/downloads/) ). A restart will be required to fully install.
+- Python: To install, run the command below on your terminal (or download Python Installation from [https://www.python.org/downloads/](https://www.python.org/downloads/) ). A restart will be required to fully install.
 
 ```powershell
 Windows:
